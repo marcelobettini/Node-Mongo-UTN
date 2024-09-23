@@ -1,0 +1,172 @@
+{
+  "women": [
+    {
+      "id": "1",
+      "name": "Cleopatra",
+      "lastName": "VII",
+      "nationality": "Egyptian",
+      "bio": "Cleopatra VII Philopator was the last active ruler of the Ptolemaic Kingdom of Egypt. She was a powerful and influential queen known for her intelligence, political prowess, and romantic liaisons with Julius Caesar and Mark Antony.",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kleopatra-VII.-Altes-Museum-Berlin1.jpg/452px-Kleopatra-VII.-Altes-Museum-Berlin1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Joan",
+      "lastName": "of Arc",
+      "nationality": "French",
+      "bio": "Joan of Arc, also known as the Maid of Orléans, was a French heroine and military leader who played a crucial role during the Lancastrian phase of the Hundred Years' War. She claimed divine guidance and led the French army to several important victories.",
+      "photo": "https://cdn.britannica.com/92/60892-050-3197B9F4/Joan-of-Arc-Coronation-Charles-VII-Reims-1854.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Marie",
+      "lastName": "Curie",
+      "nationality": "Polish",
+      "bio": "Marie Curie was a physicist and chemist who conducted pioneering research on radioactivity. She was the first woman to win a Nobel Prize, and the only person to win Nobel Prizes in two different scientific fields.",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/5/51/Marie_Curie_%281900%29.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Rosa",
+      "lastName": "Parks",
+      "nationality": "American",
+      "bio": "Rosa Parks was a civil rights activist known for her pivotal role in the Montgomery bus boycott. Her refusal to give up her seat to a white man sparked a wave of protests and became a symbol of the civil rights movement.",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Rosaparks.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Amelia",
+      "lastName": "Earhart",
+      "nationality": "American",
+      "bio": "Amelia Earhart was an aviation pioneer and the first female aviator to fly solo across the Atlantic Ocean. She set many other records and helped to promote the advancement of women in aviation.",
+      "photo": "https://www.timeforkids.com/wp-content/uploads/2020/09/AG_amelia.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Malala",
+      "lastName": "Yousafzai",
+      "nationality": "Pakistani",
+      "bio": "Malala Yousafzai is a Pakistani education activist who became the youngest-ever Nobel Prize laureate. She advocates for the rights of girls to receive an education and has become a global symbol of peaceful protest.",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Malala_Yousafzai_2015.jpg/1024px-Malala_Yousafzai_2015.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Jane",
+      "lastName": "Goodall",
+      "nationality": "British",
+      "bio": "Jane Goodall is a British primatologist and anthropologist known for her groundbreaking research on chimpanzees in Tanzania. Her work has transformed our understanding of animal behavior and conservation.",
+      "photo": "https://images.nationalgeographic.org/image/upload/t_edhub_resource_key_image/v1638890998/EducationHub/photos/jane-goodall-12.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Indira",
+      "lastName": "Gandhi",
+      "nationality": "Indian",
+      "bio": "Indira Gandhi was the first and, to date, the only female Prime Minister of India. She played a significant role in shaping the country's political landscape during her tenure, implementing major policies and reforms.",
+      "photo": "https://hips.hearstapps.com/hmg-prod/images/indian-prime-minister-indira-gandhi-at-the-carlyle-hotel-news-photo-1709823666.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Elizabeth",
+      "lastName": "I",
+      "nationality": "English",
+      "bio": "Queen Elizabeth I was one of the most iconic monarchs in English history. Her reign, known as the Elizabethan Era, saw significant cultural, economic, and military growth, and she is often remembered for her strong leadership.",
+      "photo": "https://cdn.britannica.com/85/285-050-EB9954ED/Elizabeth-I-oil-panel-George-Gower-1588.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Helen",
+      "lastName": "Keller",
+      "nationality": "American",
+      "bio": "Helen Keller was a deaf-blind author, activist, and lecturer who overcame immense challenges to become a leading advocate for people with disabilities. She was the first deaf-blind person to earn a Bachelor of Arts degree.",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Helen_Keller_circa_1920_-_restored.jpg/190px-Helen_Keller_circa_1920_-_restored.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Mother",
+      "lastName": "Teresa",
+      "nationality": "Albanian",
+      "bio": "Mother Teresa, known as Saint Teresa of Calcutta, was a Catholic nun and missionary who dedicated her life to serving the poor and sick in India. She founded the Missionaries of Charity, which operates hospices and homes for people with HIV/AIDS, leprosy, and tuberculosis.",
+      "photo": "https://cdn.britannica.com/42/155442-050-AB85E00E/Mother-Teresa.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Eleanor",
+      "lastName": "Roosevelt",
+      "nationality": "American",
+      "bio": "Eleanor Roosevelt was a prominent American politician, diplomat, and activist. She served as the First Lady of the United States from 1933 to 1945 and was a vocal advocate for civil rights, women's rights, and human rights.",
+      "photo": "https://www.womenshistory.org/sites/default/files/styles/main_image/public/Eleanor-Roosevelt-Square.png"
+    },
+    {
+      "id": "13",
+      "name": "Ada",
+      "lastName": "Lovelace",
+      "nationality": "British",
+      "bio": "Ada Lovelace was a mathematician and writer, chiefly known for her work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine. She is considered the world's first computer programmer.",
+      "photo": "https://www.nist.gov/sites/default/files/styles/2800_x_2800_limit/public/images/2023/03/14/SS_2210583803-Ada-%C2%A9HappySloth_edited.jpg?itok=EJ2WGmu6"
+    },
+    {
+      "id": "14",
+      "name": "Sojourner",
+      "lastName": "Truth",
+      "nationality": "American",
+      "bio": "Sojourner Truth was an African-American abolitionist and women's rights activist. She escaped from slavery and became a powerful speaker, advocating for the abolition of slavery and for women's rights.",
+      "photo": "https://www.womenshistory.org/sites/default/files/styles/main_image/public/images/2020-08/Sojourner%20Truth%20Square.png?itok=ZR1AOUE0"
+    },
+    {
+      "id": "15",
+      "name": "Margaret",
+      "lastName": "Thatcher",
+      "nationality": "British",
+      "bio": "Margaret Thatcher was a British stateswoman who served as Prime Minister of the United Kingdom from 1979 to 1990, making her the longest-serving British prime minister of the 20th century. She was known for her conservative policies and leadership style.",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Margaret_Thatcher_stock_portrait_%28cropped%29.jpg"
+    },
+    {
+      "id": "16",
+      "name": "Florence",
+      "lastName": "Nightingale",
+      "nationality": "British",
+      "bio": "Florence Nightingale was a trailblazing figure in nursing who greatly affected 19th- and 20th-century policies around proper medical care. She became known as 'The Lady with the Lamp' during the Crimean War, where she tended to wounded soldiers.",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg/800px-Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg"
+    },
+    {
+      "id": "17",
+      "name": "Marie",
+      "lastName": "Antoinette",
+      "nationality": "Austrian",
+      "bio": "Marie Antoinette was the last queen of France before the French Revolution. She became infamous for her extravagant lifestyle and was accused of being disconnected from the struggles of the French people, leading to her eventual execution.",
+      "photo": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYEi8OZ3cOT8YMILiF2p4C4FNLkUUicHa6m4LIzNPusaqRIE64"
+    },
+    {
+      "id": "18",
+      "name": "Queen",
+      "lastName": "Victoria",
+      "nationality": "British",
+      "bio": "Queen Victoria was the queen of the United Kingdom of Great Britain and Ireland from 1837 to 1901. She presided over a period of significant cultural, economic, and technological change, and her reign was marked by the expansion of the British Empire.",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Queen_Victoria_by_Bassano.jpg/800px-Queen_Victoria_by_Bassano.jpg"
+    },
+    {
+      "id": "19",
+      "name": "Sacagawea",
+      "lastName": "",
+      "nationality": "Shoshone",
+      "bio": "Sacagawea was a Lemhi Shoshone woman who played a crucial role as an interpreter and guide for the Lewis and Clark Expedition. She traveled thousands of miles with the expedition and helped facilitate diplomatic relations with Native American tribes.",
+      "photo": "https://www.battlefields.org/sites/default/files/styles/squarish/public/thumbnails/image/sacagewea_square.jpg?h=f6f7c884&itok=AtOhEwgD"
+    },
+    {
+      "id": "20",
+      "name": "Anne",
+      "lastName": "Frank",
+      "nationality": "German",
+      "bio": "Anne Frank was a Jewish diarist and Holocaust victim who gained posthumous fame for her diary, which documents her experiences hiding during the German occupation of the Netherlands in World War II. Her diary has been translated into numerous languages and remains a powerful testament to the human spirit.",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/7/75/Anne_Frank_passport_photo%2C_May_1942.jpg"
+    },
+    {
+      "id": "21",
+      "name": "Queen",
+      "lastName": "Elizabeth II",
+      "nationality": "British",
+      "bio": "Queen Elizabeth II is the longest-reigning current monarch and the longest-serving current head of state. She has been queen of the United Kingdom and other Commonwealth realms since 1952, overseeing a period of significant social and cultural change.",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg"
+    }
+  ]
+}

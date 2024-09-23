@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+    <%- include('./partials/header.ejs')%>
+        <main class="container">
+            <% info.forEach((woman)=> { %>
+                <article class="woman-card">
+                    <h3>
+                        <%=woman.name%>
+                            <%=woman.lastName%>
+                    </h3>
+                    <img src="<%= woman.photo%>" alt="<%=woman.name%>" width="200">
+                    <p>
+                        <%= woman.nationality%>
+                    </p>
+                </article>
+                <% })%>
+        </main>
+
+</body>
+
+</html>

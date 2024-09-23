@@ -1,0 +1,11 @@
+{
+  "name": "first-server",
+  "version": "1.0.0",
+  "description": "Our first native Node JS server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "UTN NODE-Mongo TT",
+  "license": "ISC"
+}

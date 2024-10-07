@@ -11,9 +11,12 @@ const __dirname = path.dirname(__filename)
 
 
 
+
+
 const PORT = process.env.PORT ?? 3000
 
 //internal imports
+import './config/mongoDB.js'
 import healthRouter from "./routes/healthCheck.js"
 import authRouter from "./routes/auth.js"
 
@@ -22,6 +25,9 @@ import rateLimitConfig from './config/rateLimitConfig.js';
 
 
 const app = express()
+app.use(express.json())
+app.use(express.urlencoded({ extended: false }))
+
 app.set("views", path.join(__dirname, "views"))
 app.set("view engine", "ejs")
 

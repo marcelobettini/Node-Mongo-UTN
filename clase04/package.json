@@ -12,10 +12,12 @@
   "author": "Marcelo Bettini",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^5.1.1",
     "ejs": "^3.1.10",
     "express": "^4.21.0",
     "express-rate-limit": "^7.4.0",
-    "helmet": "^8.0.0"
+    "helmet": "^8.0.0",
+    "mongoose": "^8.7.0"
   },
   "devDependencies": {
     "morgan": "^1.10.0"

@@ -4,16 +4,20 @@
 <head>
     <%- include("./partials/head")%>
         <link rel="stylesheet" href="/authForm.css">
+        <script src="https://cdn.jsdelivr.net/npm/just-validate@latest/dist/just-validate.production.min.js"></script>
+        <script src="../validators/registerRules.js" defer></script>
 </head>
 
 <body>
     <div class="container">
         <section class="formContainer">
             <h2>Create an account</h2>
-            <form action='/auth/register' method='post'>
+            <form action='/auth/register' method='post' id="registration-form">
                 <div role='group'>
-                    <label for="name">Full Name</label>
-                    <input type="text" name='name' id='name' placeholder='Your name...' title='First and last name.'>
+                    <label for="firstName">Full Name</label>
+                    <input type="text" name='firstName' id='firstName' placeholder='Your name...' title='First name.'>
+                    <label for="lastName">Full Name</label>
+                    <input type="text" name='lastName' id='lastName' placeholder='Your name...' title='Last Name.'>
                     <!-- Display error message below the input field -->
                     <label for="email">Email</label>
                     <input type="text" name='email' id='email' placeholder='Your email...'
@@ -23,8 +27,8 @@
                     <input type="password" name="password" id="password" placeholder='Your security password...'
                         title='Must contain 8 to 20 characters.' />
                     <!-- Display error message below the input field -->
-                    <label for="repeatPassword">Repeat Password</label>
-                    <input type="password" name="repeatPassword" id="repeatPassword"
+                    <label for="confirmPassword">Repeat Password</label>
+                    <input type="password" name="confirmPassword" id="confirmPassword"
                         placeholder='Repeat your password...' title='Must be equal to password.' />
                     <!-- Display error message below the input field -->
                 </div>
@@ -37,6 +41,7 @@
             </div>
         </section>
     </div>
+
 </body>
 
 </html>
